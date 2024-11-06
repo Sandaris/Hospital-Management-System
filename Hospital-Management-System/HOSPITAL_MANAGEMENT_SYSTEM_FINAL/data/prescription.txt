@@ -1,0 +1,12 @@
+PrescriptionID;MedicineID;Quantity;
+pres001;med001;8;
+pres002;med002;6;
+pres003;med003;9;
+pres004;med004;9;
+pres005;med005;8;
+pres006;med006;4;
+pres007;med007;8;
+pres008;med008;8;
+pres009;med009;4;
+pres010;med010;6;
+pres011;med011;5;

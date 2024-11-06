@@ -1,0 +1,15 @@
+AppointmentID;StaffUserID;PatientUserID;RoomNo;TimeSlots;Date;PrescriptionID;ReportID;
+apt001;drMiller;patSmith;101;08:00-11:00;2024-06-01;pres001;rapt001;
+apt002;drJohnson;patGarcia;202;13:00-15:00;2024-06-01;pres002;rapt002;
+apt003;drLee;patMartinez;303;10:00-12:00;2024-06-02;pres003;rapt003;
+apt004;drThompson;patThompson;202;10:00-12:00;2024-06-02;pres004;rapt004;
+apt005;drLee;patLee;103;13:00-15:00;2024-06-03;pres005;rapt005;
+apt006;drMiller;patWilson;102;12:00-14:30;2024-06-03;pres006;rapt006;
+apt007;drLee;patBrown;101;15:00-17:00;2024-06-03;pres007;rapt007;
+apt008;drThompson;patBaker;108;15:00-17:00;2024-06-04;pres008;rapt008;
+apt009;drMiller;patJohnson;201;12:00-14:30;2024-06-04;pres009;rapt009;
+apt010;drMiller;patHarris;301;15:30-17:30;2024-06-04;pres010;rapt010;
+apt011;drLee;patAdams;101;15:00-17:00;2024-06-04;pres011;rapt011;
+apt012;drJohnson;patBrown;201;15:00-17:00;2024-06-04;-;rapt012;
+apt013;drMiller;patHarris;102;08:00-10:00;2024-06-06;-;rapt013;
+apt015;drMiller;patBrown;103;08:00-10:00;2024-06-21;-;-;

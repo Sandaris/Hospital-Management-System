@@ -1,0 +1,15 @@
+ReportID;CaseName;DiagnosticComments;
+rapt001;Flu;Patient showing symptoms of influenza, prescribed rest and medication.;
+rapt002;Sprained Ankle;Recommended ice packs and physical therapy.;
+rapt003;Hypertension;Advised lifestyle changes and prescribed blood pressure medication.;
+rapt004;Diabetes;Routine check-up, insulin dosage adjusted.;
+rapt005;Asthma;New inhaler prescribed, discussed triggers.;
+rapt006;Back Pain;MRI scheduled, physical therapy recommended.;
+rapt007;Migraine;New medication prescribed, follow-up in 2 weeks.;
+rapt008;Allergic Reaction;Administered antihistamines, advised avoidance of allergens.;
+rapt009;Fractured Arm;Cast applied, scheduled follow-up X-ray.;
+rapt010;Bronchitis;Prescribed antibiotics, advised rest and hydration.;
+rapt011;Skin Rash;Topical cream prescribed, monitor for changes.;
+rapt012;Ear Infection;Prescribed antibiotics, scheduled follow-up in 1 week.;
+rapt013;Flu;Assigned Panadol and anti-biotics;
+rapt012;Brain Cancer;Patient had chemotherapy;

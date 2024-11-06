@@ -1,0 +1,12 @@
+BillsID;AppointmentID;Charges;
+bil001;apt001;25.99;
+bil002;apt002;35.49;
+bil003;apt003;15.99;
+bil004;apt004;45.99;
+bil005;apt005;30.99;
+bil006;apt006;20.49;
+bil007;apt007;28.99;
+bil008;apt008;35.99;
+bil009;apt009;40.49;
+bil010;apt010;22.99;
+bil011;apt011;18.99;

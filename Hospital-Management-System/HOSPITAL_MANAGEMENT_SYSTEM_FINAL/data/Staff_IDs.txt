@@ -1,0 +1,26 @@
+StaffUserID;UserPW;Name;Tags;
+jDoe23;Passw0rd!;Jane Doe;Nurse；
+adminSmith;SecurePwd789;John Smith;Admin；
+drJohnson;P@ssw0rd123;David Johnson;Doctor；
+nurseBrown;SecretPass456;Sarah Brown;Nurse；
+staffTaylor;MyPwd123;Emily Taylor;Staff；
+adminClark;AdminPass123;Emma Clark;Admin;
+drMiller;DoctorPwd456;James Miller;Doctor;
+staffGarcia;Staff123;Sophia Garcia;Staff;
+nurseAnderson;NursePass789;Oliver Anderson;Nurse;
+adminWhite;SecureAdmin!;Ava White;Admin;
+staffMartinez;Password321;Noah Martinez;Staff;
+drThompson;DoctorPass123;Isabella Thompson;Doctor;
+nurseWilson;Nurse123!;William Wilson;Nurse;
+staffLopez;StaffPwd!;Mia Lopez;Staff;
+adminHill;AdminPassword321;Ethan Hill;Admin;
+drLee;DoctorPass!;Charlotte Lee;Doctor;
+nurseGonzalez;NursePwd123;Amelia Gonzalez;Nurse;
+staffWright;StaffPass!;Benjamin Wright;Staff;
+adminAdams;Admin@123;Evelyn Adams;Admin;
+drRobinson;Doctor@321;Lucas Robinson;Doctor;
+nurseEvans;Nurse@123;Harper Evans;Nurse;
+staffGreen;Staff@Pwd;Logan Green;Staff;
+adminBaker;Admin#123;Aria Baker;Admin;
+drKing;Doctor#321;Jack King;Doctor;
+nurseHarris;Nurse#123;Sophie Harris;Nurse;
